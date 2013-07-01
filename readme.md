@@ -19,6 +19,8 @@ Here's a quick and simple example of how you'd most likely want to use this clas
     NSString *ansiEscapedStr = [ansiEscapeHelper
          ansiEscapedStringWithAttributedString:attrStr];
 
+#Contributions by:
+ iOS support by David Karlsson, @devdavidkarlsson
 
 ## The MIT License
 
